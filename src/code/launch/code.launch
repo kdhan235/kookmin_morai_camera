@@ -1,0 +1,25 @@
+<!-- <launch>
+    <!-- Teleop 노드 실행 -->
+    <node pkg="wego" type="teleop" name="teleop_node" output="screen"/>
+
+    <!-- Navigation 노드 실행 -->
+    <node pkg="wego" type="navigation" name="navigation_node" output="screen"/>
+
+    <!-- navi_oneway 실행 -->
+    <node pkg="wego" type="navi_oneway" name="navi_oneway_node" output="screen"/>
+
+    <!-- loca 실행 -->
+    <node pkg="code" type="loca" name="loca_node" output="screen"/>
+
+    <!-- miss 실행 -->
+    <node pkg="code" type="miss" name="miss_node" output="screen"/>
+
+    <!-- Lidar_code 실행 -->
+    <node pkg="Lidar_pkg" type="Lidar_code" name="lidar_node" output="screen"/>
+
+    <!-- cam_code.py 실행 -->
+    <node pkg="dh_pkg" type="cam_code.py" name="cam_code_node" output="screen"/>
+
+    <!-- node 실행 -->
+    <node pkg="code" type="node" name="node_node" output="screen"/>
+</launch> -->

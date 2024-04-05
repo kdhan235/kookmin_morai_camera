@@ -1,0 +1,8 @@
+prefix=/home/autonav/km_ws/devel
+
+Name: code
+Description: Description of code
+Version: 0.0.0
+Cflags: -I/home/autonav/km_ws/devel/include
+Libs: -L${prefix}/lib 
+Requires: 

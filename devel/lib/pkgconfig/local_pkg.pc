@@ -1,0 +1,8 @@
+prefix=/home/autonav/km_ws/devel
+
+Name: local_pkg
+Description: Description of local_pkg
+Version: 0.0.0
+Cflags: -I/home/autonav/km_ws/devel/include
+Libs: -L${prefix}/lib 
+Requires: roscpp std_msgs geometry_msgs sensor_msgs message_runtime
